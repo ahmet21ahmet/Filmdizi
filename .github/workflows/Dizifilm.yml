@@ -8,8 +8,7 @@ on:
 jobs:
   update-files:
     runs-on: ubuntu-latest
-    
-    # GITHUB_TOKEN'a içerik yazma izni verir.
+
     permissions:
       contents: write
 
@@ -20,17 +19,21 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.x'
+          python-version: '3.9' # Belirli bir versiyon kullanmak daha kararlıdır.
 
+      # GÜNCELLENDİ: googletrans kütüphanesi eklendi.
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install beautifulsoup4 aiohttp
+          pip install beautifulsoup4 aiohttp googletrans==4.0.0-rc1
 
       - name: Run Python script for series
         run: python diziler.py
 
+      # GÜNCELLENDİ: TMDB_API_KEY secret'ı script'e aktarılıyor.
       - name: Run Python script for movies
+        env:
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
         run: python filmler.py
 
       - name: Commit and push if changes exist
