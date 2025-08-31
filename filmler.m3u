@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Kör Noktada" tvg-language="Turkish" tvg-country="TR" tvg-id="KOR_NOKTADA" tvg-logo="https://dizifun5.com/images/data/2023_kor-noktada.webp" group-title="Filmler",Kör Noktada
+https://3.nejyoner19.workers.dev/?url=https://d2.premiumvideo.click/uploads/encode/qkqobweuzo3spee5l8xj/master.m3u8
+#EXTINF:-1 tvg-name="Can Dostum" tvg-language="Turkish" tvg-country="TR" tvg-id="CAN_DOSTUM" tvg-logo="https://dizifun5.com/images/data/2011_can-dostum.webp" group-title="Filmler",Can Dostum
+https://3.nejyoner19.workers.dev/?url=https://d2.premiumvideo.click/uploads/encode/dl5j1w4enjy8791zmt29/master.m3u8
+#EXTINF:-1 tvg-name="Korkuyla Yaşamak" tvg-language="Turkish" tvg-country="TR" tvg-id="KORKUYLA_YASAMAK" tvg-logo="https://dizifun5.com/images/data/2000_korkuyla-yasamak.webp" group-title="Filmler",Korkuyla Yaşamak
+https://3.nejyoner19.workers.dev/?url=https://d2.premiumvideo.click/uploads/encode/64sp7femly6hm1tksefb/master.m3u8
+#EXTINF:-1 tvg-name="Creed III: Efsane Devam Ediyor" tvg-language="Turkish" tvg-country="TR" tvg-id="CREED_III_EFSANE_DEVAM_EDIYOR" tvg-logo="https://dizifun5.com/images/data/2023_creed-iii-efsane-devam-ediyor.webp" group-title="Filmler",Creed III: Efsane Devam Ediyor
+https://3.nejyoner19.workers.dev/?url=https://d2.premiumvideo.click/uploads/encode/1vcvt7qyvjamdq9usttd/master.m3u8
+#EXTINF:-1 tvg-name="Creed II: Efsane Yükseliyor" tvg-language="Turkish" tvg-country="TR" tvg-id="CREED_II_EFSANE_YUKSELIYOR" tvg-logo="https://dizifun5.com/images/data/2018_creed-ii-efsane-yukseliyor.webp" group-title="Filmler",Creed II: Efsane Yükseliyor
+https://3.nejyoner19.workers.dev/?url=https://d2.premiumvideo.click/uploads/encode/mmdvt7bwwisn5wrxe3oz/master.m3u8
+#EXTINF:-1 tvg-name="Creed: Efsanenin Doğuşu" tvg-language="Turkish" tvg-country="TR" tvg-id="CREED_EFSANENIN_DOGUSU" tvg-logo="https://dizifun5.com/images/data/2015_creed-efsanenin-dogusu.webp" group-title="Filmler",Creed: Efsanenin Doğuşu
+https://3.nejyoner19.workers.dev/?url=https://d2.premiumvideo.click/uploads/encode/pwjq235y3n14tsaq1qf9/master.m3u8
 #EXTINF:-1 tvg-name="Kayıp Ruhlar" tvg-language="Turkish" tvg-country="TR" tvg-id="KAYIP_RUHLAR" tvg-logo="https://dizifun5.com/images/data/2014_kayip-ruhlar.webp" group-title="Filmler",Kayıp Ruhlar
 https://3.nejyoner19.workers.dev/?url=https://d2.premiumvideo.click/uploads/encode/nuqpwafjaf3vzsecm2iv/master.m3u8
 #EXTINF:-1 tvg-name="Yıldırım Ailesi Dönüyor" tvg-language="Turkish" tvg-country="TR" tvg-id="YILDIRIM_AILESI_DONUYOR" tvg-logo="https://dizifun5.com/images/data/2024_yildirim-ailesi-donuyor.webp" group-title="Filmler",Yıldırım Ailesi Dönüyor
