@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Yanlış Anlama 2" tvg-language="Turkish" tvg-country="TR" tvg-id="YANLIS_ANLAMA_2" tvg-logo="https://dizifun5.com/images/data/2022_yanlis-anlama-2.webp" group-title="Filmler",Yanlış Anlama 2
+https://3.nejyoner19.workers.dev/?url=https://d3.premiumvideo.click/uploads/encode/u4b9assxhxymlbe1pkkm/master.m3u8
+#EXTINF:-1 tvg-name="Opus" tvg-language="Turkish" tvg-country="TR" tvg-id="OPUS" tvg-logo="https://dizifun5.com/images/data/2025_opus.webp" group-title="Filmler",Opus
+https://3.nejyoner19.workers.dev/?url=https://d3.premiumvideo.click/uploads/encode/zo57rq9bg6py9l8spn4d/master.m3u8
 #EXTINF:-1 tvg-name="Yankılar" tvg-language="Turkish" tvg-country="TR" tvg-id="YANKILAR" tvg-logo="https://dizifun5.com/images/data/2014_yankilar.webp" group-title="Filmler",Yankılar
 https://3.nejyoner19.workers.dev/?url=https://d3.premiumvideo.click/uploads/encode/xf146rvg5lx7d53mzvsa/master.m3u8
 #EXTINF:-1 tvg-name="Cennet" tvg-language="Turkish" tvg-country="TR" tvg-id="CENNET" tvg-logo="https://dizifun5.com/images/data/2002_cennet.webp" group-title="Filmler",Cennet
