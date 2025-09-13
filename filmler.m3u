@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Düşmanlar" tvg-language="Turkish" tvg-country="TR" tvg-id="DUSMANLAR" tvg-logo="https://dizifun5.com/images/data/2025_dusmanlar.webp" group-title="Filmler",Düşmanlar
+https://3.nejyoner19.workers.dev/?url=https://d3.premiumvideo.click/uploads/encode/y2hb98sb16wjsndyfqrq/master.m3u8
+#EXTINF:-1 tvg-name="Duman" tvg-language="Turkish" tvg-country="TR" tvg-id="DUMAN" tvg-logo="https://dizifun5.com/images/data/1995_duman.webp" group-title="Filmler",Duman
+https://3.nejyoner19.workers.dev/?url=https://d3.premiumvideo.click/uploads/encode/au273gdpzrhfh94d2lx9/master.m3u8
+#EXTINF:-1 tvg-name="Mançuryalı Aday" tvg-language="Turkish" tvg-country="TR" tvg-id="MANCURYALI_ADAY" tvg-logo="https://dizifun5.com/images/data/2004_mancuryali-aday.webp" group-title="Filmler",Mançuryalı Aday
+https://3.nejyoner19.workers.dev/?url=https://d3.premiumvideo.click/uploads/encode/xbt1jijdqrvya7ueqtvq/master.m3u8
+#EXTINF:-1 tvg-name="Kötü Huy" tvg-language="Turkish" tvg-country="TR" tvg-id="KOTU_HUY" tvg-logo="https://dizifun5.com/images/data/2023_kotu-huy.webp" group-title="Filmler",Kötü Huy
+https://3.nejyoner19.workers.dev/?url=https://d3.premiumvideo.click/uploads/encode/tyi4v9iy4d7lmd61fyyg/master.m3u8
+#EXTINF:-1 tvg-name="Kötü Karakterler Akademisi" tvg-language="Turkish" tvg-country="TR" tvg-id="KOTU_KARAKTERLER_AKADEMISI" tvg-logo="https://dizifun5.com/images/data/2025_kotu-karakterler-akademisi.webp" group-title="Filmler",Kötü Karakterler Akademisi
+https://3.nejyoner19.workers.dev/?url=https://d3.premiumvideo.click/uploads/encode/7gg7wq9e6xlg9cvajebm/master.m3u8
 #EXTINF:-1 tvg-name="Eenie Meanie" tvg-language="Turkish" tvg-country="TR" tvg-id="EENIE_MEANIE" tvg-logo="https://dizifun5.com/images/data/2025_eenie-meanie.webp" group-title="Filmler",Eenie Meanie
 https://3.nejyoner19.workers.dev/?url=https://d3.premiumvideo.click/uploads/encode/11q7h69slsdngtd1lvhr/master.m3u8
 #EXTINF:-1 tvg-name="Ayakçı" tvg-language="Turkish" tvg-country="TR" tvg-id="AYAKCI" tvg-logo="https://dizifun5.com/images/data/2025_ayakci.webp" group-title="Filmler",Ayakçı
