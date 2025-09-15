@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Kurye" tvg-language="Turkish" tvg-country="TR" tvg-id="KURYE" tvg-logo="https://dizifun5.com/images/data/2021_kurye.webp" group-title="Filmler",Kurye
+https://3.nejyoner19.workers.dev/?url=https://d3.premiumvideo.click/uploads/encode/lgu37z2wbkvhhcscp3s5/master.m3u8
+#EXTINF:-1 tvg-name="Hazine: Geçmişin Külleri" tvg-language="Turkish" tvg-country="TR" tvg-id="HAZINE_GECMISIN_KULLERI" tvg-logo="https://dizifun5.com/images/data/2024_hazine-gecmisin-kulleri.webp" group-title="Filmler",Hazine: Geçmişin Külleri
+https://3.nejyoner19.workers.dev/?url=https://d3.premiumvideo.click/uploads/encode/pkwquoi155wyg2nj8hlv/master.m3u8
+#EXTINF:-1 tvg-name="Amazon’un Mucize Çocukları" tvg-language="Turkish" tvg-country="TR" tvg-id="AMAZONUN_MUCIZE_COCUKLARI" tvg-logo="https://dizifun5.com/images/data/2025_amazonun-mucize-cocuklari.webp" group-title="Filmler",Amazon’un Mucize Çocukları
+https://3.nejyoner19.workers.dev/?url=https://d3.premiumvideo.click/uploads/encode/5gryrir1f4jkfkfxqv36/master.m3u8
+#EXTINF:-1 tvg-name="Dijital Esaret" tvg-language="Turkish" tvg-country="TR" tvg-id="DIJITAL_ESARET" tvg-logo="https://dizifun5.com/images/data/2022_dijital-esaret.webp" group-title="Filmler",Dijital Esaret
+https://3.nejyoner19.workers.dev/?url=https://d3.premiumvideo.click/uploads/encode/dbxy2zoeu2c2w6cefvu1/master.m3u8
 #EXTINF:-1 tvg-name="Görevimiz Tehlike 7 - Ölümcül Hesaplaşma Birinci Bölüm" tvg-language="Turkish" tvg-country="TR" tvg-id="GOREVIMIZ_TEHLIKE_7_OLUMCUL_HESAPLASMA_BIRINCI_BOLUM" tvg-logo="https://dizifun5.com/images/data/2023_gorevimiz-tehlike-7-olumcul-hesaplasma-birinci-bolum.webp" group-title="Filmler",Görevimiz Tehlike 7 - Ölümcül Hesaplaşma Birinci Bölüm
 https://3.nejyoner19.workers.dev/?url=https://d3.premiumvideo.click/uploads/encode/3oxld27hmritrj3yvxmx/master.m3u8
 #EXTINF:-1 tvg-name="Görevimiz Tehlike 6 - Yansımalar" tvg-language="Turkish" tvg-country="TR" tvg-id="GOREVIMIZ_TEHLIKE_6_YANSIMALAR" tvg-logo="https://dizifun5.com/images/data/2018_gorevimiz-tehlike-6-yansimalar.webp" group-title="Filmler",Görevimiz Tehlike 6 - Yansımalar
