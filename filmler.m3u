@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Yenilmezler 4 Son Oyun" tvg-language="Turkish" tvg-country="TR" tvg-id="YENILMEZLER_4_SON_OYUN" tvg-logo="https://dizifun5.com/images/data/2019_yenilmezler-4-son-oyun.webp" group-title="Filmler",Yenilmezler 4 Son Oyun
+https://3.nejyoner19.workers.dev/?url=https://d3.premiumvideo.click/uploads/encode/3t1tqeffnxoivxbpwg3z/master.m3u8
+#EXTINF:-1 tvg-name="Yenilmezler 3 Sonsuzluk Savaşı" tvg-language="Turkish" tvg-country="TR" tvg-id="YENILMEZLER_3_SONSUZLUK_SAVASI" tvg-logo="https://dizifun5.com/images/data/2018_avengers-sonsuzluk-savasi.webp" group-title="Filmler",Yenilmezler 3 Sonsuzluk Savaşı
+https://3.nejyoner19.workers.dev/?url=https://d3.premiumvideo.click/uploads/encode/nqufsubns5qo4kfucfpo/master.m3u8
+#EXTINF:-1 tvg-name="Yenilmezler 2 Ultron Çağı" tvg-language="Turkish" tvg-country="TR" tvg-id="YENILMEZLER_2_ULTRON_CAGI" tvg-logo="https://dizifun5.com/images/data/2015_yenilmezler-ultron-cagi.webp" group-title="Filmler",Yenilmezler 2 Ultron Çağı
+https://3.nejyoner19.workers.dev/?url=https://d3.premiumvideo.click/uploads/encode/4keg6lsnyxsdxfhxj1wr/master.m3u8
+#EXTINF:-1 tvg-name="Yenilmezler" tvg-language="Turkish" tvg-country="TR" tvg-id="YENILMEZLER" tvg-logo="https://dizifun5.com/images/data/2012_yenilmezler.webp" group-title="Filmler",Yenilmezler
+https://3.nejyoner19.workers.dev/?url=https://d3.premiumvideo.click/uploads/encode/kg8rv6os2lqmmvk8y5rv/master.m3u8
 #EXTINF:-1 tvg-name="Kurye" tvg-language="Turkish" tvg-country="TR" tvg-id="KURYE" tvg-logo="https://dizifun5.com/images/data/2021_kurye.webp" group-title="Filmler",Kurye
 https://3.nejyoner19.workers.dev/?url=https://d3.premiumvideo.click/uploads/encode/lgu37z2wbkvhhcscp3s5/master.m3u8
 #EXTINF:-1 tvg-name="Hazine: Geçmişin Külleri" tvg-language="Turkish" tvg-country="TR" tvg-id="HAZINE_GECMISIN_KULLERI" tvg-logo="https://dizifun5.com/images/data/2024_hazine-gecmisin-kulleri.webp" group-title="Filmler",Hazine: Geçmişin Külleri
